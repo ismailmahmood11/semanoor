@@ -38,7 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fba30369558644a65a4a3deecf5b0f36
 "assets/Assets/images/semanoor_app.png": "117544e9f1877d9265a95e56dbdc7be9",
 "assets/Assets/images/solutions/A4%2520-%252011-1.png": "853f6cefae9ff48d2a478eaadd2e29d4",
 "assets/Assets/images/solutions/A4%2520-%252011-2.png": "325bb1289441089869663f51ccd79ce3",
-"assets/Assets/images/solutions/back%2520e2.png": "bcd489192c27febc28768ade3a8e93a2",
+"assets/Assets/images/solutions/back%2520e2.png": "2ac5523ae72726b0844838b60c313c6b",
 "assets/Assets/pdf/A4%2520-%252011.pdf": "07332cacff9cd2c8bbbe98da47474709",
 "assets/Assets/Video/bg-vid.mp4": "4b4bcaf93fa453960798aa6362e36428",
 "assets/FontManifest.json": "0a7d39e5f676f53c22231829a04c5f56",
@@ -61,9 +61,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "fba30369558644a65a4a3deecf5b0f36
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e597627e001fc3b327ea02544b43a25c",
-"/": "e597627e001fc3b327ea02544b43a25c",
-"main.dart.js": "782aac581968e000be2d8c6b4048809b",
+"index.html": "caa53fa06066e9daf0536b65f093664d",
+"/": "caa53fa06066e9daf0536b65f093664d",
+"main.dart.js": "239e1a6e409a03b17b06714aab0392f4",
 "manifest.json": "3e03c07407da217a03607e37a0319d93",
 "version.json": "b55948ac6766bf756730ec65631bf444"};
 // The application shell files that are downloaded before a service worker can
