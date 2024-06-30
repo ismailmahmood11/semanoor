@@ -1,11 +1,11 @@
 {
-    "name": "semanoor",
-    "short_name": "semanoor",
+    "name": "e_courses",
+    "short_name": "e_courses",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "We are specialized in information technology solutions and unified communications services, particularly e-publishing and e-learning for multi-languages users ...",
+    "description": "A new Flutter project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
