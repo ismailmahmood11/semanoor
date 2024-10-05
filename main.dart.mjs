@@ -281,8 +281,10 @@ _1172: (x0,x1) => x0.width = x1,
 _1174: (x0,x1) => x0.height = x1,
 _1178: (x0,x1) => x0.getContext(x1),
 _1256: x0 => x0.status,
+_1257: x0 => x0.headers,
 _1258: x0 => x0.body,
 _1259: x0 => x0.arrayBuffer(),
+_1262: (x0,x1) => x0.get(x1),
 _1264: x0 => x0.read(),
 _1265: x0 => x0.value,
 _1266: x0 => x0.done,
@@ -413,6 +415,13 @@ _1528: x0 => x0.ready,
 _1529: x0 => x0.selectedTrack,
 _1530: x0 => x0.repetitionCount,
 _1531: x0 => x0.frameCount,
+_1576: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
+_1577: (x0,x1,x2) => x0.setRequestHeader(x1,x2),
+_1578: f => finalizeWrapper(f, function(x0) { return dartInstance.exports._1578(f,arguments.length,x0) }),
+_1579: (x0,x1,x2) => x0.addEventListener(x1,x2),
+_1580: f => finalizeWrapper(f, function(x0) { return dartInstance.exports._1580(f,arguments.length,x0) }),
+_1581: x0 => x0.send(),
+_1582: () => new XMLHttpRequest(),
 _1604: x0 => new Array(x0),
 _1638: (decoder, codeUnits) => decoder.decode(codeUnits),
 _1639: () => new TextDecoder("utf-8", {fatal: true}),
@@ -441,6 +450,13 @@ _1657: () => {
 _1658: () => typeof dartUseDateNowForTicks !== "undefined",
 _1659: () => 1000 * performance.now(),
 _1660: () => Date.now(),
+_1661: () => {
+      // On browsers return `globalThis.location.href`
+      if (globalThis.location != null) {
+        return globalThis.location.href;
+      }
+      return null;
+    },
 _1663: () => new WeakMap(),
 _1664: (map, o) => map.get(o),
 _1665: (map, o, v) => map.set(o, v),
@@ -514,8 +530,12 @@ _1769: o => Object.keys(o),
 _1770: (ms, c) =>
               setTimeout(() => dartInstance.exports.$invokeCallback(c),ms),
 _1771: (handle) => clearTimeout(handle),
+_1772: (ms, c) =>
+          setInterval(() => dartInstance.exports.$invokeCallback(c), ms),
+_1773: (handle) => clearInterval(handle),
 _1774: (c) =>
               queueMicrotask(() => dartInstance.exports.$invokeCallback(c)),
+_1775: () => Date.now(),
 _1777: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
 _1780: (x0,x1) => x0.send(x1),
 _1786: f => finalizeWrapper(f, function(x0) { return dartInstance.exports._1786(f,arguments.length,x0) }),
@@ -725,7 +745,12 @@ _1957: x0 => x0.responseURL,
 _1958: x0 => x0.status,
 _1959: x0 => x0.statusText,
 _1961: (x0,x1) => x0.responseType = x1,
-_1962: x0 => x0.response
+_1962: x0 => x0.response,
+_13571: x0 => x0.status,
+_13572: (x0,x1) => x0.responseType = x1,
+_13574: x0 => x0.response,
+_13578: () => globalThis.window.flutterCanvasKit,
+_13579: () => globalThis.window._flutter_skwasmInstance
     };
 
     const baseImports = {
