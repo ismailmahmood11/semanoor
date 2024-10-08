@@ -65499,7 +65499,7 @@ r=A.aW(a,o,n).w.a.b
 n=s/2
 q=s/15
 p=t.p
-return A.du(A.b([A.bx(o,new A.bT(new A.aX(q,q,q,q),A.mG(A.bv(A.b([B.Oy,A.bx(o,o,B.p,B.h,o,o,o,2,o,o,o,o,s/10),B.vM,B.Oz,B.px],p),B.P,B.ah,B.o)),o),B.p,B.z,o,o,o,r,o,o,o,o,n),A.bv(A.b([A.bx(o,new A.uU("https://raw.githubusercontent.com/ismailmahmood11/3d/main/ipad_pro.glbfl",B.b0,!1,m,new A.ad3(),new A.ad4(),new A.ad5(),!0,o),B.p,B.z,o,o,o,r,o,o,o,o,n)],p),B.F,B.w,B.o)],p),B.bH,B.o)}}
+return A.du(A.b([A.bx(o,new A.bT(new A.aX(q,q,q,q),A.mG(A.bv(A.b([B.Oy,A.bx(o,o,B.p,B.h,o,o,o,2,o,o,o,o,s/10),B.vM,B.Oz,B.px],p),B.P,B.ah,B.o)),o),B.p,B.z,o,o,o,r,o,o,o,o,n),A.bv(A.b([A.bx(o,new A.uU("https://raw.githubusercontent.com/ismailmahmood11/3d/main/ipad_pro.glb",B.b0,!1,m,new A.ad3(),new A.ad4(),new A.ad5(),!0,o),B.p,B.z,o,o,o,r,o,o,o,o,n)],p),B.F,B.w,B.o)],p),B.bH,B.o)}}
 A.ad2.prototype={
 $0(){A.os().$1("model is loaded : "+A.n(this.a.b.a))},
 $S:0}
