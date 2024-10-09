@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "293e86f530aef9593ee949525267da87",
-"assets/AssetManifest.bin.json": "3bb8f5b4fb7bb6dcffbec4ec75fd7725",
-"assets/AssetManifest.json": "af97a96ce621a39a23ecfe486bd4ed6a",
+const RESOURCES = {"assets/AssetManifest.bin": "b06c07a5974f3c467946458c72f34836",
+"assets/AssetManifest.bin.json": "2e9ec5f5583a3419ce9ded1c05e91a10",
+"assets/AssetManifest.json": "a56f009c0faa28043d88c981df565ea9",
 "assets/assets/3d/ipad_pro.glb": "11ed9ed71305452e4294a71a058ca0d9",
 "assets/assets/images/Contact%2520Us/office-new.jpg": "69f19734e1c7b8275806d283d0d46f25",
 "assets/assets/images/Contact%2520Us/office.png": "5685149159ed8081acb22614d48a2189",
@@ -21,7 +21,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "293e86f530aef9593ee949525267da87
 "assets/assets/images/games/games_bg.jpg": "ead79ac3a37128bdde9c5e6737bbbb3d",
 "assets/assets/images/kg_to_12/kg_to_12.jpg": "3cee54d116d52a3ee1a91b4873005268",
 "assets/assets/images/kg_to_12/kg_to_12_kid.png": "a62dd157cf0bdddc34dfd5c75d96ec04",
-"assets/assets/images/kindergarten/bg/kg.png": "9981cfa73a335925b77a02a7f62169b1",
+"assets/assets/images/kindergarten/bg/kg.png": "0d8915d06a6679c1a530336badcb0395",
+"assets/assets/images/kindergarten/cover/book_cover.png": "06747ab0456392f5f0e1af3b60a7638d",
 "assets/assets/images/kindergarten/cover/kg_cover_1.png": "8ebc33235c17160d9b6253b56e283128",
 "assets/assets/images/kindergarten/cover/kg_cover_2.png": "add15e3570c0e5be743dc9ccc84d1f06",
 "assets/assets/images/kindergarten/cover/kg_cover_3.png": "183672543e96a11c437dfb0abcceaba5",
@@ -36,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "293e86f530aef9593ee949525267da87
 "assets/assets/images/who_we_are/computer_class-new.jpg": "81bc0e8b20d35d4dec9d72c6e26c24d2",
 "assets/assets/images/who_we_are/computer_class.png": "b0974de45484ef4c570d5839d9052cf1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "7bb6617bbf08f527e4f288aa88bec634",
+"assets/fonts/MaterialIcons-Regular.otf": "d2a15f3dae023ac96730780a55375b46",
 "assets/NOTICES": "30da36eab5ca9ba612f65a47ce98af0c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/flutter_3d_controller/assets/model_viewer.min.js": "11f3833db561a92ac9100cd43d28899b",
@@ -55,14 +56,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "293e86f530aef9593ee949525267da87
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "3e7c42419138a757ef94d27e46239851",
+"flutter_bootstrap.js": "14c05d1e66582f45f369b6b898cdbf62",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "5a6bf7b3b86ff75c0ec29bd82924d1e5",
 "/": "5a6bf7b3b86ff75c0ec29bd82924d1e5",
-"main.dart.js": "5ea9ad8b166db8ceac1e650943ad3545",
+"main.dart.js": "21cf1ef9eb166cd5c33c457dcc50e47a",
 "manifest.json": "1d218cb64aa06437da9083c2ce28000f",
 "version.json": "b7562729f23e4ec538295d7f2b2aa692"};
 // The application shell files that are downloaded before a service worker can
