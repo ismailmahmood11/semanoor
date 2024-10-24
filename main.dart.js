@@ -27245,44 +27245,46 @@ auO:function auO(a){this.a=a},
 auP:function auP(a){this.a=a},
 auN:function auN(a,b){this.a=a
 this.b=b},
-aBL(){var s=0,r=A.F(t.H),q=1,p,o,n,m,l,k,j,i,h,g,f
-var $async$aBL=A.B(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:if($.ac==null)A.aKZ()
+aBL(){var s=0,r=A.F(t.H),q,p=2,o,n,m,l,k,j,i,h,g,f,e
+var $async$aBL=A.B(function(a,b){if(a===1){o=b
+s=p}while(true)switch(s){case 0:if($.ac==null)A.aKZ()
 $.ac.toString
-q=3
-s=6
+p=4
+s=7
 return A.A(A.a96(A.aSf()),$async$aBL)
-case 6:q=1
-s=5
+case 7:p=2
+s=6
 break
-case 3:q=2
-f=p
-o=A.ax(f)
-A.eF("Firebase initialization error: "+A.j(o))
-s=5
+case 4:p=3
+e=o
+n=A.ax(e)
+A.eF("Error initializing Firebase: "+A.j(n))
+s=1
 break
-case 2:s=1
+s=6
 break
-case 5:if($.ac==null)A.aKZ()
-m=$.ac
-m.toString
-l=$.b1()
-k=t.e8
-j=k.a(l.gdc().b.h(0,0))
-j.toString
-i=m.gBb()
-h=m.dy$
-if(h===$){l=k.a(l.gdc().b.h(0,0))
+case 3:s=2
+break
+case 6:if($.ac==null)A.aKZ()
+l=$.ac
 l.toString
-g=new A.Zt(B.D,l,null,A.ae())
-g.az()
-g.a3m(null,null,l)
-m.dy$!==$&&A.ao()
-m.dy$=g
-h=g}m.YN(new A.Fs(j,B.Lz,i,h,null))
-m.Kd()
-return A.D(null,r)
-case 1:return A.C(p,r)}})
+k=$.b1()
+j=t.e8
+i=j.a(k.gdc().b.h(0,0))
+i.toString
+h=l.gBb()
+g=l.dy$
+if(g===$){k=j.a(k.gdc().b.h(0,0))
+k.toString
+f=new A.Zt(B.D,k,null,A.ae())
+f.az()
+f.a3m(null,null,k)
+l.dy$!==$&&A.ao()
+l.dy$=f
+g=f}l.YN(new A.Fs(i,B.Lz,h,g,null))
+l.Kd()
+case 1:return A.D(q,r)
+case 2:return A.C(o,r)}})
 return A.E($async$aBL,r)},
 OU:function OU(a){this.a=a},
 agT:function agT(){},
