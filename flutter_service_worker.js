@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a67029624927cf427792ed765b3d1f5e",
+const RESOURCES = {"flutter_bootstrap.js": "505449c17842e6bef85245d8e4bd37e2",
 "version.json": "b7562729f23e4ec538295d7f2b2aa692",
 "index.html": "c77a703182820263e35f89663cd0c2f4",
 "/": "c77a703182820263e35f89663cd0c2f4",
-"main.dart.js": "397dc5d4f0c9fac40b88e6085820c5e0",
+"main.dart.js": "5ca50482756ef7f1448271b810cf5ab6",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -26,7 +26,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a67029624927cf427792ed765b3d1f5e",
 "assets/packages/ionicons/assets/fonts/Ionicons.ttf": "757f33cf07178f986e73b03f8c195bd6",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "be40d0603edac1d3bdb5bc2f10cd2efe",
-"assets/fonts/MaterialIcons-Regular.otf": "f4d1bd3ab81456f97185f456b5bd950c",
+"assets/fonts/MaterialIcons-Regular.otf": "b3c7b017d6539e90ca384cdf297aa0e3",
 "assets/assets/images/kindergarten/cover/book3-min.jpg": "2b8f96441eceb9d02ea4527f88db9e8c",
 "assets/assets/images/kindergarten/cover/book2-min.jpg": "f04e93f54cd718339523a68ea9f49564",
 "assets/assets/images/kindergarten/cover/kg_cover_1.png": "8ebc33235c17160d9b6253b56e283128",
