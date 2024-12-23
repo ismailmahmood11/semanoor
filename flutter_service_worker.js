@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "24845c45a23efcfdfbc5b03cb4835f13",
+const RESOURCES = {"flutter_bootstrap.js": "c1da36871a71e10cb8b2871e424babca",
 "version.json": "0572b589748c642cd29b7477514a9dc4",
 "index.html": "62d5250e2e4ce799f322c4828392f188",
 "/": "62d5250e2e4ce799f322c4828392f188",
-"main.dart.js": "1fc3d6bba78f146f18c9d524cfb157d1",
+"main.dart.js": "e52eccd465b6b2efff8ef1510d27e428",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -41,7 +41,7 @@ const RESOURCES = {"flutter_bootstrap.js": "24845c45a23efcfdfbc5b03cb4835f13",
 "assets/assets/images/book_cover/book3-min.jpg": "2b8f96441eceb9d02ea4527f88db9e8c",
 "assets/assets/images/book_cover/book2-min.jpg": "f04e93f54cd718339523a68ea9f49564",
 "assets/assets/images/book_cover/book1-min.jpg": "57936a1c81a966d4587f50b966541891",
-"assets/assets/images/solutions/smart_book.png": "cf3fc6726e6ed82c2b27a724189be19d",
+"assets/assets/images/solutions/smart_book.png": "73e7b9e8c8e65677cd356f6678f4df7b",
 "assets/assets/images/about_us.png": "8afbfa4e47899abf40bb263c441032d6",
 "assets/assets/images/logo/semanoor_logo.png": "9c2b3142b53833f38b559c3196b42ad6",
 "assets/assets/images/contact_us.jpg": "69f19734e1c7b8275806d283d0d46f25",
