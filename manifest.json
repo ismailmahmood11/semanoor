@@ -1,6 +1,6 @@
 {
-    "name": "semanoor_web_3",
-    "short_name": "semanoor_web_3",
+    "name": "semanoor_flutter",
+    "short_name": "semanoor_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
